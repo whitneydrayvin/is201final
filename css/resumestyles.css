@@ -1,0 +1,44 @@
+.diff-bg{
+    background-color: #009743 !important;
+}
+
+.diff-circle{
+    background-color: #fccb0a !important;
+}
+
+.title1{
+    color: #fccb0a !important;
+}
+
+.title2{
+    color: #009743 !important;
+}
+
+a{
+    color: #009743;
+}
+
+a:hover{
+    color: #fccb0a;
+}
+
+a:visited{
+    color: #fccb0a;
+}
+
+.diff-nav{
+    color: white;
+}
+
+.icon{
+    background-color: #009743 !important;
+    color: white !important;
+}
+
+.icon:hover{
+    background-color: #fccb0a !important;
+}
+
+.skills{
+    color: #009743;
+}

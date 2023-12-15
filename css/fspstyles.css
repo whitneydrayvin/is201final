@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-ybbFaVC97XI%2FT-Iou55n45I%2FAAAAAAAACAY%2Fg9KIRuzWp3s%2Fs1600%2Fdark_repeating_background_for_web.jpg&f=1&nofb=1&ipt=7eacb1f89dfd60f26fb2da6c10ea30439f3516c70d8a1a3c2e37e1409e745372&ipo=images);
+    
+}
+
+.general{
+    position: absolute;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav{
+    position: relative;
+    float: right;
+    z-index: 1;
+}
+
+a{
+    color: blanchedalmond;
+}
+
+a:visited{
+    color: white;
+}
+
+.header{
+    width: 100%;
+    text-align: center;
+    font-size: x-large;
+    color: blanchedalmond;
+}
+
+.body{
+    top: 150px;
+    width: 100%;
+    text-align: center;
+    color: blanchedalmond;
+
+
+}
+
+.img{
+    width: 40%;
+    padding: 1px;
+    border: solid blanchedalmond 5px;
+}
+
+.video{
+    bottom: 550px;
+}
+
+.list{
+    width: 75%;
+    text-align: left;
+}
+
+.chart{
+    position: absolute;
+    bottom: -2800px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
